@@ -2,6 +2,10 @@
 
 bcrypt implementation for PHP.
 
+## Requirement
+
+PHP 5.3+
+
 ## License
 
 the MIT License.
